@@ -1,0 +1,213 @@
+[
+  {
+    "id": "62510148-768d-403d-b992-be457ddff54a",
+    "busId": "6b02a066-f27b-4635-9ea7-479fc2c5d36f",
+    "routeId": "bf6d6eda-819f-435c-8d21-c64257c379cd",
+    "driverId": "9f98bad1-01c6-43a2-82f4-42f12622f7ed",
+    "status": "active",
+    "passengerCount": 18,
+    "currentLocation": {
+      "lat": 19.0544,
+      "lng": 72.8402,
+      "timestamp": "2026-10-21T17:48:54.181Z"
+    },
+    "nextStop": "Dadar Station",
+    "delay": null,
+    "scheduledStart": "2026-10-21T16:48:54.181Z",
+    "startedAt": "2026-10-21T16:48:54.181Z",
+    "endedAt": null,
+    "lastLocationUpdate": "2026-10-21T17:48:54.181Z",
+    "locationHistory": [],
+    "occupancyHistory": [
+      {
+        "count": 5,
+        "timestamp": "2026-10-21T16:48:54.181Z"
+      },
+      {
+        "count": 12,
+        "timestamp": "2026-10-21T17:08:54.181Z"
+      },
+      {
+        "count": 18,
+        "timestamp": "2026-10-21T17:28:54.181Z"
+      }
+    ],
+    "incidents": [],
+    "createdAt": "2026-10-21T16:48:54.181Z"
+  },
+  {
+    "id": "183e47a4-7e6a-4045-b5df-ccd9c8d6142b",
+    "busId": "f27fa7e5-29aa-44e9-9c0d-0e58ad002d48",
+    "routeId": "34381960-0fce-4199-9947-b2501d94e6d0",
+    "driverId": "ed302f2a-2b46-4b50-845b-f9f5afd4c777",
+    "status": "active",
+    "passengerCount": 38,
+    "currentLocation": {
+      "lat": 19.1364,
+      "lng": 72.8492,
+      "timestamp": "2026-10-21T17:48:54.181Z"
+    },
+    "nextStop": "Andheri",
+    "delay": null,
+    "scheduledStart": "2026-10-21T16:18:54.181Z",
+    "startedAt": "2026-10-21T16:18:54.181Z",
+    "endedAt": null,
+    "lastLocationUpdate": "2026-10-21T17:48:54.181Z",
+    "locationHistory": [],
+    "occupancyHistory": [
+      {
+        "count": 10,
+        "timestamp": "2026-10-21T16:18:54.181Z"
+      },
+      {
+        "count": 25,
+        "timestamp": "2026-10-21T16:48:54.181Z"
+      },
+      {
+        "count": 38,
+        "timestamp": "2026-10-21T17:18:54.181Z"
+      }
+    ],
+    "incidents": [],
+    "createdAt": "2026-10-21T16:18:54.181Z"
+  },
+  {
+    "id": "25f793da-ee9b-499c-a214-49f653b4245e",
+    "busId": "8a39edf6-e20d-430a-8e8d-9b20fbcb15b9",
+    "routeId": "fd261fcf-a0c3-4780-871e-1e882eba4129",
+    "driverId": "f257658a-032d-49de-bc9e-9c244e4a77b2",
+    "status": "active",
+    "passengerCount": 52,
+    "currentLocation": {
+      "lat": 19.0623,
+      "lng": 72.8969,
+      "timestamp": "2026-10-21T17:48:54.181Z"
+    },
+    "nextStop": "Kurla",
+    "delay": {
+      "reported": true,
+      "description": "Heavy traffic on Eastern Express Highway",
+      "reportedAt": "2026-10-21T17:33:54.181Z"
+    },
+    "scheduledStart": "2026-10-21T15:48:54.181Z",
+    "startedAt": "2026-10-21T15:48:54.181Z",
+    "endedAt": null,
+    "lastLocationUpdate": "2026-10-21T17:48:54.181Z",
+    "locationHistory": [],
+    "occupancyHistory": [
+      {
+        "count": 15,
+        "timestamp": "2026-10-21T15:48:54.181Z"
+      },
+      {
+        "count": 35,
+        "timestamp": "2026-10-21T16:18:54.181Z"
+      },
+      {
+        "count": 52,
+        "timestamp": "2026-10-21T16:48:54.181Z"
+      }
+    ],
+    "incidents": [
+      {
+        "id": "6c47dacf-1ef4-4a5b-8d17-1eedecf01330",
+        "tripId": "25f793da-ee9b-499c-a214-49f653b4245e",
+        "busId": "8a39edf6-e20d-430a-8e8d-9b20fbcb15b9",
+        "driverId": "f257658a-032d-49de-bc9e-9c244e4a77b2",
+        "type": "delay",
+        "description": "Heavy traffic on Eastern Express Highway",
+        "severity": "medium",
+        "status": "reported",
+        "createdAt": "2026-10-21T17:33:54.181Z"
+      }
+    ],
+    "createdAt": "2026-10-21T15:48:54.181Z"
+  },
+  {
+    "id": "bb283956-5279-4315-a933-2b6d12ac8661",
+    "busId": "29e6c333-8e3d-4975-b10f-a7f98bfdbc2e",
+    "routeId": "0c4a6076-1e18-4c6b-927f-e12948d56452",
+    "driverId": "e2cfd4ce-903d-4a68-abb5-0df6aeefc021",
+    "status": "active",
+    "passengerCount": 8,
+    "currentLocation": {
+      "lat": 19.1486,
+      "lng": 72.9378,
+      "timestamp": "2026-10-21T17:48:54.181Z"
+    },
+    "nextStop": "Vikhroli",
+    "delay": null,
+    "scheduledStart": "2026-10-21T17:18:54.181Z",
+    "startedAt": "2026-10-21T17:18:54.181Z",
+    "endedAt": null,
+    "lastLocationUpdate": "2026-10-21T17:48:54.181Z",
+    "locationHistory": [],
+    "occupancyHistory": [
+      {
+        "count": 3,
+        "timestamp": "2026-10-21T17:18:54.181Z"
+      },
+      {
+        "count": 8,
+        "timestamp": "2026-10-21T17:38:54.181Z"
+      }
+    ],
+    "incidents": [],
+    "createdAt": "2026-10-21T17:18:54.181Z"
+  },
+  {
+    "id": "a22e3a29-485f-4ecc-8a9e-c36527025676",
+    "busId": "49380c63-4ba7-4e62-9aa3-f43ad59cb3bc",
+    "routeId": "28ac9caf-7b99-4a83-90fc-aaed55cf06c1",
+    "driverId": "1415a245-05d9-4a5c-a3bc-9dbd549bac05",
+    "status": "active",
+    "passengerCount": 45,
+    "currentLocation": {
+      "lat": 19.1176,
+      "lng": 72.906,
+      "timestamp": "2026-10-21T17:48:54.181Z"
+    },
+    "nextStop": "JVLR Junction",
+    "delay": null,
+    "scheduledStart": "2026-10-21T16:38:54.181Z",
+    "startedAt": "2026-10-21T16:38:54.181Z",
+    "endedAt": null,
+    "lastLocationUpdate": "2026-10-21T17:48:54.181Z",
+    "locationHistory": [],
+    "occupancyHistory": [
+      {
+        "count": 20,
+        "timestamp": "2026-10-21T16:38:54.181Z"
+      },
+      {
+        "count": 35,
+        "timestamp": "2026-10-21T17:08:54.181Z"
+      },
+      {
+        "count": 45,
+        "timestamp": "2026-10-21T17:38:54.181Z"
+      }
+    ],
+    "incidents": [],
+    "createdAt": "2026-10-21T16:38:54.181Z"
+  },
+  {
+    "id": "0cb1f90b-1513-44b9-b5a5-fccaec88a7fa",
+    "busId": "8f2ef7e3-6dd3-4f2b-aab1-0fc3c7f51726",
+    "routeId": "bf6d6eda-819f-435c-8d21-c64257c379cd",
+    "driverId": "9f98bad1-01c6-43a2-82f4-42f12622f7ed",
+    "status": "scheduled",
+    "passengerCount": 0,
+    "currentLocation": null,
+    "nextStop": null,
+    "delay": null,
+    "scheduledStart": "2026-10-21T18:48:54.181Z",
+    "startedAt": null,
+    "endedAt": null,
+    "lastLocationUpdate": null,
+    "locationHistory": [],
+    "occupancyHistory": [],
+    "incidents": [],
+    "createdAt": "2026-10-21T17:48:54.181Z"
+  }
+]

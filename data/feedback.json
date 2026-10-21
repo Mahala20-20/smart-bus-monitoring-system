@@ -1,0 +1,13 @@
+[
+  {
+    "id": "0a2afabb-1064-4da7-b643-e56159dd1c90",
+    "userId": "ce550a5d-d84a-4447-9aea-ec757c27f276",
+    "userName": "Demo Passenger",
+    "busId": "6b02a066-f27b-4635-9ea7-479fc2c5d36f",
+    "type": "suggestion",
+    "message": "The AC on Bus MH-101 was not working properly during my morning commute.",
+    "rating": 3,
+    "status": "pending",
+    "createdAt": "2026-10-19T17:48:54.181Z"
+  }
+]

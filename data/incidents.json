@@ -1,0 +1,13 @@
+[
+  {
+    "id": "6c47dacf-1ef4-4a5b-8d17-1eedecf01330",
+    "tripId": "25f793da-ee9b-499c-a214-49f653b4245e",
+    "busId": "8a39edf6-e20d-430a-8e8d-9b20fbcb15b9",
+    "driverId": "f257658a-032d-49de-bc9e-9c244e4a77b2",
+    "type": "delay",
+    "description": "Heavy traffic on Eastern Express Highway",
+    "severity": "medium",
+    "status": "reported",
+    "createdAt": "2026-10-21T17:33:54.181Z"
+  }
+]

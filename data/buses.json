@@ -1,0 +1,82 @@
+[
+  {
+    "id": "6b02a066-f27b-4635-9ea7-479fc2c5d36f",
+    "busNumber": "MH-101",
+    "registrationNumber": "MH-01-AB-1234",
+    "capacity": 50,
+    "type": "AC",
+    "status": "active",
+    "currentPassengers": 0,
+    "createdAt": "2026-10-21T17:48:54.180Z"
+  },
+  {
+    "id": "f27fa7e5-29aa-44e9-9c0d-0e58ad002d48",
+    "busNumber": "MH-102",
+    "registrationNumber": "MH-01-CD-5678",
+    "capacity": 45,
+    "type": "Non-AC",
+    "status": "active",
+    "currentPassengers": 0,
+    "createdAt": "2026-10-21T17:48:54.180Z"
+  },
+  {
+    "id": "8a39edf6-e20d-430a-8e8d-9b20fbcb15b9",
+    "busNumber": "MH-103",
+    "registrationNumber": "MH-01-EF-9012",
+    "capacity": 55,
+    "type": "AC",
+    "status": "active",
+    "currentPassengers": 0,
+    "createdAt": "2026-10-21T17:48:54.180Z"
+  },
+  {
+    "id": "29e6c333-8e3d-4975-b10f-a7f98bfdbc2e",
+    "busNumber": "MH-104",
+    "registrationNumber": "MH-01-GH-3456",
+    "capacity": 40,
+    "type": "Mini",
+    "status": "active",
+    "currentPassengers": 0,
+    "createdAt": "2026-10-21T17:48:54.180Z"
+  },
+  {
+    "id": "49380c63-4ba7-4e62-9aa3-f43ad59cb3bc",
+    "busNumber": "MH-105",
+    "registrationNumber": "MH-01-IJ-7890",
+    "capacity": 60,
+    "type": "AC Volvo",
+    "status": "active",
+    "currentPassengers": 0,
+    "createdAt": "2026-10-21T17:48:54.180Z"
+  },
+  {
+    "id": "8f2ef7e3-6dd3-4f2b-aab1-0fc3c7f51726",
+    "busNumber": "MH-106",
+    "registrationNumber": "MH-01-KL-2345",
+    "capacity": 50,
+    "type": "Non-AC",
+    "status": "active",
+    "currentPassengers": 0,
+    "createdAt": "2026-10-21T17:48:54.180Z"
+  },
+  {
+    "id": "b5ce5c57-8700-4a72-acec-5461cb3b1b9b",
+    "busNumber": "MH-107",
+    "registrationNumber": "MH-01-MN-6789",
+    "capacity": 45,
+    "type": "AC",
+    "status": "maintenance",
+    "currentPassengers": 0,
+    "createdAt": "2026-10-21T17:48:54.180Z"
+  },
+  {
+    "id": "e1f31679-f4e4-4bbb-8dd7-8541528a1911",
+    "busNumber": "MH-108",
+    "registrationNumber": "MH-01-OP-0123",
+    "capacity": 55,
+    "type": "AC Volvo",
+    "status": "active",
+    "currentPassengers": 0,
+    "createdAt": "2026-10-21T17:48:54.180Z"
+  }
+]

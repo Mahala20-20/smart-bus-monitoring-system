@@ -1,0 +1,290 @@
+[
+  {
+    "id": "bf6d6eda-819f-435c-8d21-c64257c379cd",
+    "name": "Route A - Central Line",
+    "source": "Andheri Station",
+    "destination": "CST Mumbai",
+    "stops": [
+      {
+        "name": "Andheri Station",
+        "lat": 19.1197,
+        "lng": 72.8464,
+        "order": 1
+      },
+      {
+        "name": "Vile Parle",
+        "lat": 19.0968,
+        "lng": 72.8494,
+        "order": 2
+      },
+      {
+        "name": "Bandra Station",
+        "lat": 19.0544,
+        "lng": 72.8402,
+        "order": 3
+      },
+      {
+        "name": "Dadar Station",
+        "lat": 19.0186,
+        "lng": 72.8425,
+        "order": 4
+      },
+      {
+        "name": "Parel",
+        "lat": 18.9977,
+        "lng": 72.8389,
+        "order": 5
+      },
+      {
+        "name": "Mumbai Central",
+        "lat": 18.9712,
+        "lng": 72.8197,
+        "order": 6
+      },
+      {
+        "name": "Marine Lines",
+        "lat": 18.9438,
+        "lng": 72.8228,
+        "order": 7
+      },
+      {
+        "name": "CST Mumbai",
+        "lat": 18.9398,
+        "lng": 72.8355,
+        "order": 8
+      }
+    ],
+    "distance": "24 km",
+    "estimatedTime": "75 min",
+    "status": "active",
+    "createdAt": "2026-10-21T17:48:54.180Z"
+  },
+  {
+    "id": "34381960-0fce-4199-9947-b2501d94e6d0",
+    "name": "Route B - Western Express",
+    "source": "Borivali Station",
+    "destination": "Churchgate",
+    "stops": [
+      {
+        "name": "Borivali Station",
+        "lat": 19.2307,
+        "lng": 72.8567,
+        "order": 1
+      },
+      {
+        "name": "Kandivali",
+        "lat": 19.2047,
+        "lng": 72.8527,
+        "order": 2
+      },
+      {
+        "name": "Malad",
+        "lat": 19.1868,
+        "lng": 72.8484,
+        "order": 3
+      },
+      {
+        "name": "Goregaon",
+        "lat": 19.1663,
+        "lng": 72.8494,
+        "order": 4
+      },
+      {
+        "name": "Jogeshwari",
+        "lat": 19.1364,
+        "lng": 72.8492,
+        "order": 5
+      },
+      {
+        "name": "Andheri",
+        "lat": 19.1197,
+        "lng": 72.8464,
+        "order": 6
+      },
+      {
+        "name": "Bandra",
+        "lat": 19.0544,
+        "lng": 72.8402,
+        "order": 7
+      },
+      {
+        "name": "Lower Parel",
+        "lat": 18.993,
+        "lng": 72.8292,
+        "order": 8
+      },
+      {
+        "name": "Churchgate",
+        "lat": 18.9322,
+        "lng": 72.8264,
+        "order": 9
+      }
+    ],
+    "distance": "35 km",
+    "estimatedTime": "100 min",
+    "status": "active",
+    "createdAt": "2026-10-21T17:48:54.180Z"
+  },
+  {
+    "id": "fd261fcf-a0c3-4780-871e-1e882eba4129",
+    "name": "Route C - Harbour Line",
+    "source": "Panvel",
+    "destination": "CST Mumbai",
+    "stops": [
+      {
+        "name": "Panvel",
+        "lat": 18.9894,
+        "lng": 73.1175,
+        "order": 1
+      },
+      {
+        "name": "Vashi",
+        "lat": 19.0771,
+        "lng": 72.9987,
+        "order": 2
+      },
+      {
+        "name": "Nerul",
+        "lat": 19.033,
+        "lng": 73.0169,
+        "order": 3
+      },
+      {
+        "name": "Belapur",
+        "lat": 19.0224,
+        "lng": 73.0394,
+        "order": 4
+      },
+      {
+        "name": "Chembur",
+        "lat": 19.0623,
+        "lng": 72.8969,
+        "order": 5
+      },
+      {
+        "name": "Kurla",
+        "lat": 19.0726,
+        "lng": 72.8794,
+        "order": 6
+      },
+      {
+        "name": "Sion",
+        "lat": 19.0405,
+        "lng": 72.8621,
+        "order": 7
+      },
+      {
+        "name": "CST Mumbai",
+        "lat": 18.9398,
+        "lng": 72.8355,
+        "order": 8
+      }
+    ],
+    "distance": "42 km",
+    "estimatedTime": "120 min",
+    "status": "active",
+    "createdAt": "2026-10-21T17:48:54.181Z"
+  },
+  {
+    "id": "0c4a6076-1e18-4c6b-927f-e12948d56452",
+    "name": "Route D - Thane Express",
+    "source": "Thane Station",
+    "destination": "Dadar",
+    "stops": [
+      {
+        "name": "Thane Station",
+        "lat": 19.186,
+        "lng": 72.9757,
+        "order": 1
+      },
+      {
+        "name": "Mulund",
+        "lat": 19.1726,
+        "lng": 72.9565,
+        "order": 2
+      },
+      {
+        "name": "Bhandup",
+        "lat": 19.1486,
+        "lng": 72.9378,
+        "order": 3
+      },
+      {
+        "name": "Vikhroli",
+        "lat": 19.113,
+        "lng": 72.9258,
+        "order": 4
+      },
+      {
+        "name": "Ghatkopar",
+        "lat": 19.086,
+        "lng": 72.908,
+        "order": 5
+      },
+      {
+        "name": "Sion",
+        "lat": 19.0405,
+        "lng": 72.8621,
+        "order": 6
+      },
+      {
+        "name": "Dadar",
+        "lat": 19.0186,
+        "lng": 72.8425,
+        "order": 7
+      }
+    ],
+    "distance": "22 km",
+    "estimatedTime": "65 min",
+    "status": "active",
+    "createdAt": "2026-10-21T17:48:54.181Z"
+  },
+  {
+    "id": "28ac9caf-7b99-4a83-90fc-aaed55cf06c1",
+    "name": "Route E - Navi Mumbai Connector",
+    "source": "Vashi",
+    "destination": "Andheri",
+    "stops": [
+      {
+        "name": "Vashi",
+        "lat": 19.0771,
+        "lng": 72.9987,
+        "order": 1
+      },
+      {
+        "name": "Airoli",
+        "lat": 19.1556,
+        "lng": 72.9998,
+        "order": 2
+      },
+      {
+        "name": "Mulund",
+        "lat": 19.1726,
+        "lng": 72.9565,
+        "order": 3
+      },
+      {
+        "name": "Powai",
+        "lat": 19.1176,
+        "lng": 72.906,
+        "order": 4
+      },
+      {
+        "name": "JVLR Junction",
+        "lat": 19.1153,
+        "lng": 72.8834,
+        "order": 5
+      },
+      {
+        "name": "Andheri",
+        "lat": 19.1197,
+        "lng": 72.8464,
+        "order": 6
+      }
+    ],
+    "distance": "28 km",
+    "estimatedTime": "80 min",
+    "status": "active",
+    "createdAt": "2026-10-21T17:48:54.181Z"
+  }
+]

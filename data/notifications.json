@@ -1,0 +1,25 @@
+[
+  {
+    "id": "4f60436d-7108-4755-8d33-24b33df71687",
+    "type": "announcement",
+    "title": "Welcome to SmartBus!",
+    "message": "Our Smart Bus Crowd Monitoring System is now live. Track buses, check crowd levels, and plan your journey efficiently!",
+    "forRoles": [
+      "passenger",
+      "driver",
+      "admin"
+    ],
+    "createdAt": "2026-10-20T17:48:54.181Z"
+  },
+  {
+    "id": "db306630-dd92-4d85-b38e-04450486942f",
+    "type": "incident_delay",
+    "title": "Delay - Bus MH-103",
+    "message": "Heavy traffic on Eastern Express Highway. Bus MH-103 on Route C may be delayed.",
+    "busId": "8a39edf6-e20d-430a-8e8d-9b20fbcb15b9",
+    "forRoles": [
+      "passenger"
+    ],
+    "createdAt": "2026-10-21T17:33:54.181Z"
+  }
+]

@@ -1,0 +1,78 @@
+[
+  {
+    "id": "8878c224-f4c9-4026-9acb-82614851f4e4",
+    "name": "Admin User",
+    "email": "admin@smartbus.com",
+    "password": "$2b$10$3zFPlveJAfd33jzl9RPgIu8bmIIxGLYoHU4KDvL4x/g/cPpMU9puO",
+    "phone": "9876543210",
+    "role": "admin",
+    "createdAt": "2026-10-21T17:48:54.033Z"
+  },
+  {
+    "id": "9f98bad1-01c6-43a2-82f4-42f12622f7ed",
+    "name": "Rajesh Kumar",
+    "email": "rajesh@smartbus.com",
+    "password": "$2b$10$kBSXH6yNYdKX1E59bvSyO.ytLLgbk837JNLL8F49eIs/gVShTZJRS",
+    "phone": "9876543211",
+    "licenseNumber": "DL-2024-001",
+    "role": "driver",
+    "status": "active",
+    "createdAt": "2026-10-21T17:48:54.107Z"
+  },
+  {
+    "id": "ed302f2a-2b46-4b50-845b-f9f5afd4c777",
+    "name": "Suresh Patel",
+    "email": "suresh@smartbus.com",
+    "password": "$2b$10$kBSXH6yNYdKX1E59bvSyO.ytLLgbk837JNLL8F49eIs/gVShTZJRS",
+    "phone": "9876543212",
+    "licenseNumber": "DL-2024-002",
+    "role": "driver",
+    "status": "active",
+    "createdAt": "2026-10-21T17:48:54.107Z"
+  },
+  {
+    "id": "f257658a-032d-49de-bc9e-9c244e4a77b2",
+    "name": "Amit Singh",
+    "email": "amit@smartbus.com",
+    "password": "$2b$10$kBSXH6yNYdKX1E59bvSyO.ytLLgbk837JNLL8F49eIs/gVShTZJRS",
+    "phone": "9876543213",
+    "licenseNumber": "DL-2024-003",
+    "role": "driver",
+    "status": "active",
+    "createdAt": "2026-10-21T17:48:54.107Z"
+  },
+  {
+    "id": "e2cfd4ce-903d-4a68-abb5-0df6aeefc021",
+    "name": "Vikram Sharma",
+    "email": "vikram@smartbus.com",
+    "password": "$2b$10$kBSXH6yNYdKX1E59bvSyO.ytLLgbk837JNLL8F49eIs/gVShTZJRS",
+    "phone": "9876543214",
+    "licenseNumber": "DL-2024-004",
+    "role": "driver",
+    "status": "active",
+    "createdAt": "2026-10-21T17:48:54.107Z"
+  },
+  {
+    "id": "1415a245-05d9-4a5c-a3bc-9dbd549bac05",
+    "name": "Priya Verma",
+    "email": "priya@smartbus.com",
+    "password": "$2b$10$kBSXH6yNYdKX1E59bvSyO.ytLLgbk837JNLL8F49eIs/gVShTZJRS",
+    "phone": "9876543215",
+    "licenseNumber": "DL-2024-005",
+    "role": "driver",
+    "status": "active",
+    "createdAt": "2026-10-21T17:48:54.107Z"
+  },
+  {
+    "id": "ce550a5d-d84a-4447-9aea-ec757c27f276",
+    "name": "Demo Passenger",
+    "email": "passenger@smartbus.com",
+    "password": "$2b$10$mEV7DT6ADtoZnLrBQHPBXeP/3K9FlueB5RccNWqnrN0IrTu6lrum.",
+    "phone": "9876543220",
+    "role": "passenger",
+    "favouriteBuses": [],
+    "favouriteRoutes": [],
+    "recentSearches": [],
+    "createdAt": "2026-10-21T17:48:54.180Z"
+  }
+]
